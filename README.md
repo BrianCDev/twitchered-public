@@ -37,3 +37,11 @@ Nota: En caso de que Orion Studio no cumpla lo establecido, el dueño del servid
 
 
 Una vez leído esto, el dueño de el proyecto a administrar, en este caso `Twitchered ByFlexiuzZ`, debe aceptar todas estas condiciones, escribiendo en el chat de discord General, en Twitchered `Acepto los terminos y condiciones de Orion Studio TM hoy 08/03/2023`, una vez esto. Orion Studio comienza con su labor de administración.
+
+# Aceptación de terminos que impone Orion Studio.
+
+<p align="center">
+    
+![Aceptación Terminos 600 x 600](https://media.discordapp.net/attachments/1075159803036455072/1083177656503251034/image.png)
+
+</p>
